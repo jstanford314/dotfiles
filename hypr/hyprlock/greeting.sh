@@ -33,4 +33,4 @@ else
 fi
 
 # Output the combined text
-echo -e "$firstname $greeting"
+echo -e "Hello, $firstname! $greeting"

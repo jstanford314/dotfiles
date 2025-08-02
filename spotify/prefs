@@ -1,0 +1,15 @@
+autologin.username="jstanford314"
+autologin.saved_credentials="{\"jstanford314\":[\"jstanford314\",\"pnhwthOVdeCGS0mpgj09qgvL3iwftejkpQvog3/7mr6YEtRugDuEdLFV7jRDR/FMxHrWWKfdr5MmJFppxGZCIdyITmsbRGjKtDGeM3hOPchqTi0+s7OSi94GO5Rr2TSWbg3LFBhtPc4gjtPYAOJnbZjQyiv5ooOtHTadrIjfkP4npR5L8ubxi8AB6lVK52cebVoGzoeJUWRLnLUKgVbrKc3ymGTWf5vvlbzibVyeKJYLjebEh0rqJeNBjg97r2Ne\"]}"
+autologin.canonical_username="jstanford314"
+app.window.state.saved=true
+app.window.position.width=521
+app.rollback-to-sc=true
+autologin.blob="pnhwthOVdeCGS0mpgj09qgvL3iwftejkpQvog3/7mr6YEtRugDuEdLFV7jRDR/FMxHrWWKfdr5MmJFppxGZCIdyITmsbRGjKtDGeM3hOPchqTi0+s7OSi94GO5Rr2TSWbg3LFBhtPc4gjtPYAOJnbZjQyiv5ooOtHTadrIjfkP4npR5L8ubxi8AB6lVK52cebVoGzoeJUWRLnLUKgVbrKc3ymGTWf5vvlbzibVyeKJYLjebEh0rqJeNBjg97r2Ne"
+es.send-on-startup=true
+core.clock_delta=0
+app.window.position.saved=true
+app.window.position.height=918
+app.window.position.y=990
+storage.last-location="/home/jay/.cache/spotify/Storage"
+app.window.position.x=1932
+app.last-launched-version="1.2.63.394.g126b0d89"

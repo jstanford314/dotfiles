@@ -96,7 +96,7 @@
 		"format": "󰣇",
 		"tooltip": false,
 		//"on-click": "~/.config/rofi/scripts/sidelauncher"
-		"on-click": "rofi -show drun -theme /home/jstanford/.config/rofi/launchers/type-7/style-4.rasi"
+		"on-click": "rofi -show drun -theme /home/jay/.config/rofi/launchers/type-7/style-4.rasi"
 	},
 
 	/*--------------Pacman--------------------*/
@@ -258,7 +258,7 @@
 
 	/*------------Clock------------------*/
 	"clock": {
-		"format": "󰥔 {:%H:%M:%S} ",
+		"format": "󰥔 {:%I:%M:%p} ",
 		"interval": 1,   
 		"tooltip-format": "<tt>{calendar}</tt>",
 		"calendar": {
